@@ -1,8 +1,11 @@
 A Simple Book Directory With `Nodejs`.
 
 Properties: {
+
     1) Basic Search Bar.
+    
     2) Upload Books.
+    
 }
 
 
