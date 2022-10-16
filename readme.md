@@ -1,12 +1,10 @@
 A Simple Book Directory With `Nodejs`.
 
-Properties: {
+Properties:
 
     1) Basic Search Bar.
     
     2) Upload Books.
-    
-}
 
 
 to Install All Dependencies use `npm install`.
