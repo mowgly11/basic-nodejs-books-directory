@@ -1,13 +1,9 @@
-A Simple Book Directory With `Nodejs`.
+<h1>Books Directory</h1>
 
-Properties:
+i made this project when i started learning about `ExpressJS` and `EJS`. 
+a basic books directory that you upload and search for books. i didn't really focus on making the UI so you'll notice that it's not really good.
 
-    1) Basic Search Bar.
-    
-    2) Upload Books.
+<h1>Technologies:</h1>
 
-
-to Install All Dependencies use `npm install`.
-
-
-To Run the project use `node index.js`.
+* `ExpressJS`: https://www.npmjs.com/package/express
+* `EJS`: https://www.npmjs.com/package/ejs
