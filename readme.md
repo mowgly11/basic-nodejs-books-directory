@@ -7,3 +7,4 @@ a basic books directory that you upload and search for books. i didn't really fo
 
 * `ExpressJS`: https://www.npmjs.com/package/express
 * `EJS`: https://www.npmjs.com/package/ejs
+* `MongoDB/Mongoose`: https://www.npmjs.com/package/mongoose
